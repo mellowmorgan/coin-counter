@@ -9,6 +9,7 @@
 * Webpack
 * Javascript
 * Jest
+* Babel
 
 ## Description
 
