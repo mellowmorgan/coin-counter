@@ -23,5 +23,3 @@ Functional programming project with Javascript to count coins from a total amoun
 
 ## License
 MIT Copyright (c) 2022 Morgan Waites
-
-## Contact Information
