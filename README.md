@@ -1,31 +1,27 @@
-# (Application Name)
+# Coin Counter
 
-#### (Brief Description of Application)
+#### Counts coins giving total amount with quarters, dimes, nickels, pennies.
 
-#### By (Your Name Here)
+#### By Morgan Waites
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* Webpack
+* Javascript
+* Jest
 
 ## Description
 
+Functional programming project with Javascript to count coins from a total amount given as argument. Function tested but no front end or script added.
+
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-## Known Bugs
-
-* _Any known issues_
-* _should go here_
+* Clone this repository to desired directory on your computer
+* Navigate into project folder created
+* npm install in terminal
+* make a script file to call and use the function in CoinCounter.js file
 
 ## License
+MIT Copyright (c) 2022 Morgan Waites
 
 ## Contact Information
